@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Estrutura_IF_Else_IF/1.0.0": {
+        "runtime": {
+          "Estrutura_IF_Else_IF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura_IF_Else_IF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
