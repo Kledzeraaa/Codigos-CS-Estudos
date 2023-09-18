@@ -1,0 +1,15 @@
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\bin\Debug\net6.0\ExemploPratico 1 - 4.exe
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\bin\Debug\net6.0\ExemploPratico 1 - 4.deps.json
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\bin\Debug\net6.0\ExemploPratico 1 - 4.runtimeconfig.json
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\bin\Debug\net6.0\ExemploPratico 1 - 4.dll
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\bin\Debug\net6.0\ExemploPratico 1 - 4.pdb
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.csproj.AssemblyReference.cache
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.AssemblyInfoInputs.cache
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.AssemblyInfo.cs
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.csproj.CoreCompileInputs.cache
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.dll
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\refint\ExemploPratico 1 - 4.dll
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.pdb
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ExemploPratico 1 - 4.genruntimeconfig.cache
+D:\Projetos Visual Studio\Aulas Udemy\ClassesMetodos\ExemploPratico 1 - 3\obj\Debug\net6.0\ref\ExemploPratico 1 - 4.dll
